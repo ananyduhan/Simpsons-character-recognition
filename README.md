@@ -15,9 +15,13 @@ and for a deep learning model the more the data better the results but at the sa
 and at the same time preparing the data is the biggest p[art of making a deep learning model 
 
 ### importing the data
+the dataset that i have used in this "alexattia/the-simpsons-characters-dataset" from kaggle 
 ### cleaning the data
+the datasets have 20 folders for 20 different characters but the problem is that the some of them have few images as compared so to reduce this imbalance i have taken only the top 10 characters
 ### resizing the data
+
 ### encoding the data
+one hot encoder is the best tool for doing such thing 
 ### splliting training and testing samples 
 
 ## the actual model prepration
