@@ -43,7 +43,7 @@ one hot encoder is the best tool for doing such thing
 ## the actual model prepration
 ## training the model
 ## testing the model
-just doing do get a commit
+
 
 
 
